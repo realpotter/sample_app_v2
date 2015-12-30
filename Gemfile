@@ -47,3 +47,5 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.1'
 gem 'autoprefixer-rails'
+gem 'bcrypt-ruby', '3.1.2'
+gem 'protected_attributes'
